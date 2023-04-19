@@ -144,8 +144,6 @@ iframe {
   35%{background-color: rgb(48, 16, 16)}
   
 }
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
-
 @media (max-width:800px) {
   main {
     justify-content: center;
